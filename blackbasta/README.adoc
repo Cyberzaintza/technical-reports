@@ -1,0 +1,4 @@
+= Black Basta Ransomware 
+ 
+A technical report of Black Basta is available at our https://www.ciberseguridad.eus/[website].
+
